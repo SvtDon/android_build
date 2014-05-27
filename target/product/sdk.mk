@@ -32,7 +32,6 @@ PRODUCT_PACKAGES := \
 	Protips \
 	SoftKeyboard \
 	SystemUI \
-	Launcher2 \
 	Development \
 	DevelopmentSettings \
 	Fallback \
@@ -100,64 +99,7 @@ PRODUCT_LOCALES = \
 	ldpi \
 	hdpi \
 	mdpi \
-	xhdpi \
-	ar_EG \
-	ar_IL \
-	bg_BG \
-	ca_ES \
-	cs_CZ \
-	da_DK \
-	de_AT \
-	de_CH \
-	de_DE \
-	de_LI \
-	el_GR \
-	en_AU \
-	en_CA \
-	en_GB \
-	en_IE \
-	en_IN \
-	en_NZ \
-	en_SG \
-	en_US \
-	en_ZA \
-	es_ES \
-	es_US \
-	fi_FI \
-	fr_BE \
-	fr_CA \
-	fr_CH \
-	fr_FR \
-	he_IL \
-	hi_IN \
-	hr_HR \
-	hu_HU \
-	id_ID \
-	it_CH \
-	it_IT \
-	ja_JP \
-	ko_KR \
-	lt_LT \
-	lv_LV \
-	nb_NO \
-	nl_BE \
-	nl_NL \
-	pl_PL \
-	pt_BR \
-	pt_PT \
-	ro_RO \
-	ru_RU \
-	sk_SK \
-	sl_SI \
-	sr_RS \
-	sv_SE \
-	th_TH \
-	tl_PH \
-	tr_TR \
-	uk_UA \
-	vi_VN \
-	zh_CN \
-	zh_TW
+	xhdpi
 
 # include available languages for TTS in the system image
 -include external/svox/pico/lang/PicoLangDeDeInSystem.mk
