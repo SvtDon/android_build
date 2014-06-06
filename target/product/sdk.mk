@@ -32,7 +32,7 @@ PRODUCT_PACKAGES := \
 	Protips \
 	SoftKeyboard \
 	SystemUI \
-	Launcher3 \
+	Launcher2 \
 	Development \
 	DevelopmentSettings \
 	Fallback \
