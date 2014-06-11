@@ -30,6 +30,7 @@ PRODUCT_PACKAGES := \
     Exchange2 \
     Gallery2 \
     LatinIME \
+    Launcher3 \
     Provision \
     Settings \
     Sync \
